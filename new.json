@@ -1,0 +1,22 @@
+[
+/n{
+/n/n"Color": "Red",
+/n/n"Hex": "#FF0000",
+/n/n"RG": "255 0 0\n"
+/n},
+/n{
+/n/n"Color": "Green",
+/n/n"Hex": "#008000",
+/n/n"RG": "0 128 0\n"
+/n},
+/n{
+/n/n"Color": "Blue",
+/n/n"Hex": "#0000FF",
+/n/n"RG": "0 0 255\n"
+/n},
+/n{
+/n/n"Color": "White",
+/n/n"Hex": "#FFFFFF",
+/n/n"RG": "255 255 255"
+/n}
+]
